@@ -1,2 +1,7 @@
 # Ying-HsuanWang.github.io
-This is for class203A's assignment.
+# About me
+王盈萱/Wang Ying Hsuan
+Third year in Yuan Ze University.
+
+## Expectation For Myself 
+Graduate. Simple but hopefully it'll come true. :)
