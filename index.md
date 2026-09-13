@@ -3,4 +3,6 @@
 Third year in Yuan Ze University.
 
 ## Expectation For Myself 
-Graduate. Simple but hopefully will come true. :)
+- Be better at C++
+- Graduate. Simple but hopefully will come true. :)
+
