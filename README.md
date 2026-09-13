@@ -1,4 +1,3 @@
-# Ying-HsuanWang.github.io
 # About me
 王盈萱/Wang Ying Hsuan
 Third year in Yuan Ze University.
